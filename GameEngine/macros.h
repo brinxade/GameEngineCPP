@@ -1,0 +1,9 @@
+#pragma once
+
+#define RENDERER_ENABLE_SHADOWS true
+#define WINDOW_TITLE "Game Engine"
+#define WINDOW_WIDTH 1600
+#define WINDOW_HEIGHT 900
+#define PROJECTION_NEAR 1.0f
+#define PROJECTION_FAR 10000.0f
+#define PROJECTION_FOV 45.0f
